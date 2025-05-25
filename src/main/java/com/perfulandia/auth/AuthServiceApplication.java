@@ -18,5 +18,4 @@ git remote add origin https://github.com/AngeAravena/perfulandiaSPA.git
 /*git add –A
 git commit –m “comentario”
 
- */  
-
+ */
