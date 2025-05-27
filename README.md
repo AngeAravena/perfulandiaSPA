@@ -1,2 +1,0 @@
-# perfulandiaSPA
-proyecto fullstack1
